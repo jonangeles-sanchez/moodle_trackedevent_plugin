@@ -7,3 +7,5 @@ to an event using a QR code-based system. Essentially:
 3. Attendee will scan the unique QR code and login to verify their identity
 4. That QR code is no longer valid for anyone else, and will return an error if used again
 5. Admin chooses to show a new unique QR code for next attendee
+
+### This is a snapshot of my capstone project at Mars Hill University
